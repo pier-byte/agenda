@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*.local
+.env
+*.class
+.settings/
+.project
+.classpath
+bin/
+config.properties
